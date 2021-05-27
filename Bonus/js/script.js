@@ -1,10 +1,10 @@
-var firstname = prompt("Inserisci Nome");
+var firstName = prompt("Inserisci Nome");
 
-var surname = prompt("Inserisci Cognome");
+var surName = prompt("Inserisci Cognome");
 
 var color = prompt("Inserisci colore preferito");
 
-var result = firstname + surname + color;
+var result = firstName + surName + color;
 
 var letter = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "Z"];
 
