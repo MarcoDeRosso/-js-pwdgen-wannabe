@@ -6,4 +6,4 @@ var color = prompt("Inserisci colore preferito");
 
 var result = firstname + surname + color;
 
-document.getElementById("password").innerHTML = result + 21;
+document.getElementById("password").innerHTML = "La tua password è: " + result + 21;
